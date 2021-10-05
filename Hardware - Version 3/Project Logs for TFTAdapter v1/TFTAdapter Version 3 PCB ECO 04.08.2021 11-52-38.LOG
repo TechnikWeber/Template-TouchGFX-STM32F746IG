@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=VCC Pin=R6-2
+Removed Pin From Net: NetName=VCC2 Pin=R7-2
+Removed Pin From Net: NetName=GND Pin=ST1-5
+Removed Member From Class: ClassName=Prozessor Member=D3
+Removed Member From Class: ClassName=Prozessor Member=D4
+Removed Member From Class: ClassName=Prozessor Member=R4
+Removed Member From Class: ClassName=Prozessor Member=R5
+Removed Member From Class: ClassName=Prozessor Member=R6
+Removed Member From Class: ClassName=Prozessor Member=R7
+Removed Member From Class: ClassName=Prozessor Member=ST1

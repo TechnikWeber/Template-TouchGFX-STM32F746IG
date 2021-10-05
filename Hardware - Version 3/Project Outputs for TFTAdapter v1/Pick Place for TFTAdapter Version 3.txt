@@ -1,0 +1,92 @@
+Altium Designer Pick and Place Locations
+U:\Projekte\Philipp Weber\8001 TFT Display TouchGFX\Leiterplatten\Version 3\Project Outputs for TFTAdapter v1\Pick Place for TFTAdapter Version 3.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       23.08.21
+Time:       11:08
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Footprint               Center-X(mm) Center-Y(mm) Layer       Rotation Comment                      
+PS2        PASSER-CIRCLE           121.050      8.925        TopLayer    0        Comment                      
+PS4        PASSER-CIRCLE           120.425      58.550       BottomLayer 180      Comment                      
+PS3        PASSER-CIRCLE           120.425      58.550       TopLayer    0        Comment                      
+LG1        Logo                    -109.069     -270.724     BottomLayer 180      Comment                      
+PS5        PASSER-CIRCLE           8.550        8.950        BottomLayer 180      Comment                      
+SN1        Seriennummer            -109.069     -270.724     BottomLayer 270      Comment                      
+PS6        PASSER-CIRCLE           6.775        55.725       BottomLayer 180      Comment                      
+PS1        PASSER-CIRCLE           6.775        55.725       TopLayer    0        Comment                      
+ST4        ZIF_Connector_6pol      21.733       26.950       BottomLayer 180      ZIF Connector 6pol           
+ST5        WLEISTE10_GERADE        19.530       46.610       BottomLayer 270      WLEISTE10                    
+ST2        NADELADAPTER-10         31.650       53.481       BottomLayer 220      ARM JTAG Nadeladapter 10-Pin 
+S1         DTS62                   67.125       19.900       BottomLayer 360      DTS62                        
+R21        R0603                   17.025       31.400       TopLayer    270      0R                           
+R20        R0603                   102.400      19.350       TopLayer    180      10K                          
+R19        R0603                   13.900       31.450       TopLayer    90       0R                           
+R18        R0603                   15.450       31.425       TopLayer    270      47K                          
+R17        R0603                   67.100       19.850       TopLayer    270      10K                          
+R16        R0603                   29.850       23.025       TopLayer    270      22R                          
+R15        R0603                   39.375       58.150       TopLayer    270      47K                          
+R14        R0603                   26.125       46.275       TopLayer    270      10K                          
+R13        R0603                   29.625       58.400       TopLayer    270      10K                          
+R12        R0603                   27.475       58.400       TopLayer    270      10K                          
+R11        R0603                   25.350       58.475       TopLayer    270      10K                          
+R10        R0603                   25.350       55.550       TopLayer    90       10K                          
+R9         R0603                   119.375      42.950       TopLayer    90       2,7K                         
+R8         R0603                   117.850      42.950       TopLayer    90       2,7K                         
+R3         R0603                   117.750      28.000       TopLayer    180      0R                           
+R2         R0603                   73.620       13.420       TopLayer    45       10K                          
+R1         R0603                   72.675       22.375       TopLayer    180      10K                          
+Q3         SMD_Uhrenquarz_klein    83.775       10.375       TopLayer    180      32.768KHz                    
+Q2         HC49S4SMD               103.496      9.375        BottomLayer 225      25MHz                        
+L1         P8X9                    27.400       29.140       BottomLayer 90       47uH                         
+J1         JUMPER1/10              14.700       46.490       BottomLayer 90       JUMP / 1-10                  
+IC3        SOT23-5                 33.975       23.325       TopLayer    360      CAT4238 / SOT23-5            
+IC1        SOP2-8-208_(SO8W)       73.025       7.450        TopLayer    315      MT25QL128ABA1ESE-0SIT        
+D5         DO214AC/SMA             24.925       37.550       TopLayer    90       SS16T3G                      
+D2         Minimelf                66.125       45.625       TopLayer    0        BAS32                        
+D1         Minimelf                70.575       45.625       TopLayer    180      BAS32                        
+C37        C0603                   85.725       8.700        TopLayer    270      10pF                         
+C36        C0603                   81.800       8.675        TopLayer    270      10pF                         
+C35        C0603                   36.950       58.125       TopLayer    90       220nF                        
+C34        C1206                   85.150       51.025       TopLayer    90       2,2uF                        
+C33        C1206                   115.950      43.750       TopLayer    90       2,2uF                        
+C32        C0603                   34.000       19.900       TopLayer    360      100nF                        
+C31        C0603                   53.025       48.325       TopLayer    180      100nF                        
+C30        CB                      52.900       51.075       TopLayer    180      2,2uF                        
+C29        C0603                   37.675       23.200       TopLayer    90       100nF                        
+C28        C0603                   110.400      12.300       TopLayer    135      22pF                         
+C27        C0603                   100.425      2.575        TopLayer    135      22pF                         
+C26        C0603                   74.450       45.250       TopLayer    225      100nF                        
+C25        C0603                   70.200       34.825       TopLayer    270      100nF                        
+C24        C0603                   104.875      19.325       TopLayer    360      100nF                        
+C23        C0603                   119.400      31.475       TopLayer    90       100nF                        
+C22        C0603                   111.950      44.425       TopLayer    270      100nF                        
+C21        C0603                   109.975      44.425       TopLayer    270      100nF                        
+C20        C0603                   108.200      44.400       TopLayer    270      100nF                        
+C19        C0603                   67.950       29.200       TopLayer    90       100nF                        
+C18        C0603                   70.450       41.000       TopLayer    225      100nF                        
+C17        C0603                   94.200       50.250       TopLayer    180      100nF                        
+C16        C0603                   109.675      39.600       TopLayer    180      100nF                        
+C15        C0603                   117.275      30.450       TopLayer    90       100nF                        
+C14        C0603                   104.875      17.325       TopLayer    360      100nF                        
+C13        C0603                   84.235       13.900       TopLayer    360      100nF                        
+C12        Alu-Elko4x5             88.825       4.725        BottomLayer 225      1uF                          
+C11        C0603                   96.525       15.125       TopLayer    0        100nF                        
+C10        Alu-Elko4x5             93.494       8.750        BottomLayer 90       1uF                          
+C9         C0603                   97.225       13.125       TopLayer    0        100nF                        
+C8         C0603                   68.675       23.550       TopLayer    270      100nF                        
+C7         C0603                   67.950       34.825       TopLayer    270      100nF                        
+C6         C0603                   81.575       52.425       TopLayer    180      100nF                        
+C5         C0603                   99.600       51.925       TopLayer    180      100nF                        
+C4         C0603                   109.689      35.925       TopLayer    180      100nF                        
+C3         C0603                   109.500      23.025       TopLayer    0        100nF                        
+C2         C0603                   89.675       12.475       TopLayer    360      100nF                        
+C1         C0603                   75.700       10.175       TopLayer    315      100nF                        
+BATT1      KnopfzellenhalterCR2032 63.816       45.241       BottomLayer 225      CR2032PCB                    
+MC1        QFP24x24-176-05         89.450       31.779       TopLayer    360      STM32 F746 IG                
+IC2        TSSOP(2)54              89.350       31.850       BottomLayer 180      AS4C4M16SA-6TCN              
+ST3        ZIF_Connector_40pol     41.000       39.000       BottomLayer 180      ZIF Connector 40pol          

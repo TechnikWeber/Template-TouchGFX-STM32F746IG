@@ -1,0 +1,101 @@
+Removed Pin From Net: NetName=GND Pin=C38-1
+Removed Pin From Net: NetName=+12V Pin=C38-2
+Removed Pin From Net: NetName=GND Pin=C39-2
+Removed Pin From Net: NetName=VCC Pin=J1-1
+Removed Pin From Net: NetName=VCC2 Pin=J1-2
+Removed Pin From Net: NetName=+12V Pin=J1-4
+Removed Pin From Net: NetName=GND Pin=J1-5
+Removed Pin From Net: NetName=GND Pin=J1-6
+Removed Pin From Net: NetName=NetC28_2 Pin=Q1-1
+Removed Pin From Net: NetName=NetC27_2 Pin=Q1-2
+Removed Pin From Net: NetName=NetC37_1 Pin=Q2-1
+Removed Pin From Net: NetName=NetC36_1 Pin=Q2-2
+Removed Pin From Net: NetName=VCC Pin=ST5-1
+Removed Pin From Net: NetName=VCC2 Pin=ST5-2
+Removed Pin From Net: NetName=+12V Pin=ST5-4
+Removed Pin From Net: NetName=GND Pin=ST5-5
+Removed Pin From Net: NetName=GND Pin=ST5-6
+Removed Pin From Net: NetName=GND Pin=ST5-7
+Removed Pin From Net: NetName=GND Pin=ST5-8
+Removed Pin From Net: NetName=+12V Pin=U1-1
+Removed Pin From Net: NetName=GND Pin=U1-2
+Removed Member From Class: ClassName=Spannungsversorgung Member=C38
+Removed Member From Class: ClassName=Spannungsversorgung Member=C39
+Removed Member From Class: ClassName=Spannungsversorgung Member=J1
+Removed Member From Class: ClassName=Prozessor Member=Q1
+Removed Member From Class: ClassName=Prozessor Member=Q2
+Removed Member From Class: ClassName=Spannungsversorgung Member=U1
+Added Component: Designator=C?(C0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C?(RADIAL_RM3.8)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J?(JUMPER1/10)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q?(HC49S4SMD)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q?(HC49)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q?(QK032)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q?(SMD Uhrenquarz klein)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(R0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(R0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(R0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T?(SOT23)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T?(SO8)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=VCC2 Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=VCC2 Pin=C?-2
+Added Pin To Net: NetName=GND Pin=IC3-2
+Added Pin To Net: NetName=NetIC2_20 Pin=MC1-108
+Added Pin To Net: NetName=NetIC2_21 Pin=MC1-109
+Added Pin To Net: NetName=NetC28_2 Pin=Q?-1
+Added Pin To Net: NetName=NetC28_2 Pin=Q?-1
+Added Pin To Net: NetName=NetC37_1 Pin=Q?-1
+Added Pin To Net: NetName=NetC37_1 Pin=Q?-1
+Added Pin To Net: NetName=NetC27_2 Pin=Q?-2
+Added Pin To Net: NetName=NetC27_2 Pin=Q?-2
+Added Pin To Net: NetName=NetC36_1 Pin=Q?-2
+Added Pin To Net: NetName=NetC36_1 Pin=Q?-2
+Added Pin To Net: NetName=GND Pin=R16-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=VCC2 Pin=R?-2
+Added Pin To Net: NetName=VCC2 Pin=T?-1
+Added Pin To Net: NetName=GND Pin=T?-2
+Added Pin To Net: NetName=VCC2 Pin=T?-2
+Added Pin To Net: NetName=VCC2 Pin=T?-3
+Added Pin To Net: NetName=NetMC1_119 Pin=MC1-119
+Added Pin To Net: NetName=NetMC1_119 Pin=R?-2
+Added Net: Name=NetMC1_119
+Added Pin To Net: NetName=NetMC1_120 Pin=MC1-120
+Added Net: Name=NetMC1_120
+Added Pin To Net: NetName=NetMC1_121 Pin=MC1-121
+Added Net: Name=NetMC1_121
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-2
+Added Pin To Net: NetName=NetR?_1 Pin=T?-1
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=VWLAN Pin=T?-5
+Added Pin To Net: NetName=VWLAN Pin=T?-6
+Added Pin To Net: NetName=VWLAN Pin=T?-7
+Added Pin To Net: NetName=VWLAN Pin=T?-8
+Added Net: Name=VWLAN
+Added Member To Class: ClassName=Spannungsversorgung Member=Component C? 100nF
+Added Member To Class: ClassName=Spannungsversorgung Member=Component C? 100uF/35V
+Added Member To Class: ClassName=Spannungsversorgung Member=Component J? JUMP / 1-10
+Added Member To Class: ClassName=Prozessor Member=Component Q? 25MHz
+Added Member To Class: ClassName=Prozessor Member=Component Q? 25MHz
+Added Member To Class: ClassName=Prozessor Member=Component Q? 32.768KHz
+Added Member To Class: ClassName=Prozessor Member=Component Q? 32.768KHz
+Added Member To Class: ClassName=Spannungsversorgung Member=Component R? 470R
+Added Member To Class: ClassName=Spannungsversorgung Member=Component R? 1K
+Added Member To Class: ClassName=Spannungsversorgung Member=Component R? 10K
+Added Member To Class: ClassName=Spannungsversorgung Member=Component T? BC817-40 / SOT23
+Added Member To Class: ClassName=Spannungsversorgung Member=Component T? SI4401BDY-T1

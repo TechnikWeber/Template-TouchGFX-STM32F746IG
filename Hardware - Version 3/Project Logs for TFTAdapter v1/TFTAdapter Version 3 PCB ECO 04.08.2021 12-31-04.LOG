@@ -1,0 +1,9 @@
+Added Component: Designator=ST4(ZIF Connector 6pol)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetMC1_84 Pin=ST4-1
+Added Pin To Net: NetName=NetMC1_85 Pin=ST4-2
+Added Pin To Net: NetName=VCC2 Pin=ST4-3
+Added Pin To Net: NetName=NetR19_1 Pin=ST4-4
+Added Pin To Net: NetName=NetMC1_7 Pin=ST4-5
+Added Pin To Net: NetName=GND Pin=ST4-6
+Added Member To Class: ClassName=Prozessor Member=Component ST4 ZIF Connector 6pol

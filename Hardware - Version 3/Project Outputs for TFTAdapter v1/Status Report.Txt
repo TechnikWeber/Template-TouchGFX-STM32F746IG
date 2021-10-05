@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [TFTAdapter v1.PrjPCB]
+   Generated File[Pick Place for TFTAdapter Version 3.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:08:24 On 23.08.2021

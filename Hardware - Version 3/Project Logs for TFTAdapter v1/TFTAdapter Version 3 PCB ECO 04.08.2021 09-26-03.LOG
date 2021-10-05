@@ -1,0 +1,48 @@
+Added Component: Designator=ST3(ZIF Connector 40pol)
+Add component. Clean all parameters for all variants
+Added Component: Designator=ST4(ZIF Connector 6pol)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetIC3_3 Pin=ST3-1
+Added Pin To Net: NetName=NetC29_2 Pin=ST3-2
+Added Pin To Net: NetName=GND Pin=ST3-3
+Added Pin To Net: NetName=VCC2 Pin=ST3-4
+Added Pin To Net: NetName=NetMC1_43 Pin=ST3-5
+Added Pin To Net: NetName=NetMC1_42 Pin=ST3-6
+Added Pin To Net: NetName=NetMC1_41 Pin=ST3-7
+Added Pin To Net: NetName=NetMC1_56 Pin=ST3-8
+Added Pin To Net: NetName=NetMC1_51 Pin=ST3-9
+Added Pin To Net: NetName=NetMC1_32 Pin=ST3-10
+Added Pin To Net: NetName=NetMC1_57 Pin=ST3-11
+Added Pin To Net: NetName=NetMC1_110 Pin=ST3-12
+Added Pin To Net: NetName=NetMC1_4 Pin=ST3-13
+Added Pin To Net: NetName=NetMC1_5 Pin=ST3-14
+Added Pin To Net: NetName=NetMC1_52 Pin=ST3-15
+Added Pin To Net: NetName=NetMC1_129 Pin=ST3-16
+Added Pin To Net: NetName=NetMC1_79 Pin=ST3-17
+Added Pin To Net: NetName=NetMC1_80 Pin=ST3-18
+Added Pin To Net: NetName=NetMC1_132 Pin=ST3-19
+Added Pin To Net: NetName=NetMC1_133 Pin=ST3-20
+Added Pin To Net: NetName=NetMC1_3 Pin=ST3-21
+Added Pin To Net: NetName=NetMC1_155 Pin=ST3-22
+Added Pin To Net: NetName=NetMC1_150 Pin=ST3-23
+Added Pin To Net: NetName=NetMC1_154 Pin=ST3-24
+Added Pin To Net: NetName=NetMC1_173 Pin=ST3-25
+Added Pin To Net: NetName=NetMC1_47 Pin=ST3-26
+Added Pin To Net: NetName=NetMC1_175 Pin=ST3-27
+Added Pin To Net: NetName=NetMC1_168 Pin=ST3-28
+Added Pin To Net: NetName=GND Pin=ST3-29
+Added Pin To Net: NetName=NetMC1_111 Pin=ST3-30
+Added Pin To Net: NetName=NetMC1_146 Pin=ST3-31
+Added Pin To Net: NetName=NetMC1_12 Pin=ST3-32
+Added Pin To Net: NetName=NetMC1_11 Pin=ST3-33
+Added Pin To Net: NetName=NetMC1_28 Pin=ST3-34
+Added Pin To Net: NetName=GND Pin=ST3-35
+Added Pin To Net: NetName=GND Pin=ST3-36
+Added Pin To Net: NetName=NetMC1_84 Pin=ST4-1
+Added Pin To Net: NetName=NetMC1_85 Pin=ST4-2
+Added Pin To Net: NetName=VCC2 Pin=ST4-3
+Added Pin To Net: NetName=NetR19_1 Pin=ST4-4
+Added Pin To Net: NetName=NetMC1_7 Pin=ST4-5
+Added Pin To Net: NetName=GND Pin=ST4-6
+Added Member To Class: ClassName=Prozessor Member=Component ST3 ZIF Connector 40pol
+Added Member To Class: ClassName=Prozessor Member=Component ST4 ZIF Connector 6pol
