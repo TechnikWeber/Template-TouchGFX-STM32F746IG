@@ -19,6 +19,8 @@ SLA0048 Rev4/March 2018
 Altium Designer<br/>
 Version: 17.0.11<br/>
 
+8.06.04 J-Link 10-Pin Needle Adapter
+
 --------------------------
 
 USE EXTERNAL LOADER!
