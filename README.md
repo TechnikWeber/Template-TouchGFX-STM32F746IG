@@ -11,7 +11,7 @@ Build: 10852_20210715_0634 (UTC)<br/>
 OS: Windows 10, v.10.0, x86_64 / win32<br/>
 Java version: 11.0.10<br/>
 <br/>
-TouchGFX Version: 4.17.0 
+TouchGFX <br/>Version: 4.17.0 
 SLA0048 Rev4/March 2018
 
 --------------------------
