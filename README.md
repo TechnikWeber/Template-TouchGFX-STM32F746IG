@@ -5,6 +5,7 @@ with MT25QL128ABA1ESE-0SIT, AS4C4M16SA-6TCN and Low Cost 4.3"480x272 TFT LCD Dis
 https://www.buydisplay.com/low-cost-4-3-inch-480x272-tft-lcd-display-w-optl-capacitive-touch-screen
 
 Dependencies:<br/>
+
 STM32CubeIDE<br/>
 Version: 1.7.0<br/>
 Build: 10852_20210715_0634 (UTC)<br/>
