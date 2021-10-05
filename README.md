@@ -15,7 +15,8 @@ TouchGFX <br/>Version: 4.17.0
 SLA0048 Rev4/March 2018
 <br/>
 Altium Designer<br/>
-Version: 17.0.11
+Version: 17.0.11<br/>
+
 --------------------------
 
 USE EXTERNAL LOADER!
