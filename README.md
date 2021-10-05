@@ -13,7 +13,9 @@ Java version: 11.0.10<br/>
 <br/>
 TouchGFX <br/>Version: 4.17.0 
 SLA0048 Rev4/March 2018
-
+<br/>
+Altium Designer<br/>
+Version: 17.0.11
 --------------------------
 
 USE EXTERNAL LOADER!
